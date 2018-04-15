@@ -34,6 +34,7 @@
             android:label="@string/app_name"
             android:launchMode="singleTop"
             android:screenOrientation="portrait" />
+        <activity android:name=".LifeCycle"></activity>
     </application>
 
 </manifest>
